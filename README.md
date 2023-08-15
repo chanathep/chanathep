@@ -1,5 +1,4 @@
 Hi, I'm @chanathep.
-I want to try CoPilot....
 
 
 
